@@ -7,6 +7,7 @@
 | Date  | Used hours | Subjec(s)  | output |
 | :---         |     :---:      |      :---:      |      :---:      | 
 | 2.11.2024  | 4  | Kick-off lecture  | opettelen käyttämään tätä opiskelijana  |
+| 14.11.2024  | 4  | Portswigger | materiaaliin tutustumista ja opiskelua  |
 | 13.11.2024  | 4  | Portswigger | Rekisteröidyin Portswiggeriin, asensin Burp Suite, tutustuin materiaaliin  |
 | 14.11.2024  | 4  | Labs | Tutustuin labrojen tekoon ja suoritin kolme labraa  |
 | 17.11.2024  | 6  | Opiskelua | Latailin tietokoneelle Dockerin-ohjelmiston yritin saada toimii ja katsoin opettajan muita videoita. En vielä ymmärtänyt mitä on tarkoitus tehdä seuraavaksi  |
